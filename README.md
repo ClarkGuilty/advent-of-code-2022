@@ -26,3 +26,6 @@ using DrWatson
 @quickactivate "advent-of-code-2022"
 ```
 which auto-activate the project and enable local path handling from DrWatson.
+
+
+Just trying new things in Julia.
